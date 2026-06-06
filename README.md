@@ -7,18 +7,18 @@ Passionate about building scalable web applications and transforming ideas into 
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 💻 Software Developer passionate about full-stack web development
-- 🌱 Currently learning System Design, Cloud Technologies, and Advanced Backend Development
-- 🔭 Working on real-world projects to strengthen my development skills
-- 🎯 Interested in Software Engineering, Web Development, and Product Development
-- 📚 Continuously improving my Data Structures and Algorithms skills
-- 💼 Open to Software Developer, Full-Stack Developer, and Software Engineer opportunities
+-  Software Developer passionate about full-stack web development
+-  Currently learning System Design, Cloud Technologies, and Advanced Backend Development
+-  Working on real-world projects to strengthen my development skills
+-  Interested in Software Engineering, Web Development, and Product Development
+-  Continuously improving my Data Structures and Algorithms skills
+-  Open to Software Developer, Full-Stack Developer, and Software Engineer opportunities
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -44,9 +44,9 @@ Passionate about building scalable web applications and transforming ideas into 
 
 ---
 
-## 🚀 Featured Project
+##  Featured Project
 
-### 💼 HireFlow – Job Portal Platform
+###  HireFlow – Job Portal Platform
 
 A modern job portal platform designed to connect job seekers with recruiters through a streamlined hiring process.
 
@@ -69,7 +69,7 @@ A modern job portal platform designed to connect job seekers with recruiters thr
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=abijithsunny&show_icons=true&theme=github_dark)
 
@@ -79,7 +79,7 @@ A modern job portal platform designed to connect job seekers with recruiters thr
 
 ---
 
-## 🎯 Current Goals
+##  Current Goals
 
 - Master Full-Stack Development
 - Learn Cloud Computing (AWS)
@@ -89,7 +89,7 @@ A modern job portal platform designed to connect job seekers with recruiters thr
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 - 💼 LinkedIn: www.linkedin.com/in/abijith-sunny-16n2003
 - 📧 Email: abhijithsunny175@gmail.com
@@ -97,7 +97,7 @@ A modern job portal platform designed to connect job seekers with recruiters thr
 
 ---
 
-## 💡 Developer Philosophy
+##  Developer Philosophy
 
 > "Great software is built through continuous learning, consistency, and a passion for solving real-world problems."
 
