@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abijith Sunny</h1>
+<h1 align="center">Hi, I'm Abijith Sunny</h1>
 <h3 align="center">Software Developer | Full-Stack Developer | Problem Solver</h3>
 
 <p align="center">
@@ -91,8 +91,8 @@ A modern job portal platform designed to connect job seekers with recruiters thr
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/abhijith-sunny
-- 📧 Email: your-email@example.com
+- 💼 LinkedIn: www.linkedin.com/in/abijith-sunny-16n2003
+- 📧 Email: abhijithsunny175@gmail.com
 - 💻 GitHub: https://github.com/abijithsunny
 
 ---
